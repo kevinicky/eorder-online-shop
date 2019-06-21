@@ -32,10 +32,10 @@
     <div class="container">
         <img src="Assets/logo-eorder.png" alt="" class="img-responsive" style="margin: 10% auto;">
         <p>Developer team:</p>
-        <h3>Andy</h3>
-        <h3>Handi Putra Tjio</h3>
+        <h3>Andy - 2101632326</h3>
+        <h3>Handi Putra Tjio - 2101691676</h3>
         <h3>Kevin Nicky Setiawan - 2101635076</h3>
-        <h3>Tio Kristian</h3>
+        <h3>Tio Kristian Prasetyo - 2101687281</h3>
         <br>
         <h4>Class : LE01</h3>
         
