@@ -1,0 +1,82 @@
+body{
+    font-family: 'Montserrat';
+}
+
+.products{
+    border : 1px solid #f89406;
+    border-radius: 5px;
+    padding: 16px;
+    margin-bottom: 20px;
+}
+
+.products>h4{
+    font-size: 18px;
+    color: black;
+}
+
+.table{
+    margin: 0px auto;
+    float: none;
+}
+
+.button{
+    background: #6394FB;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    display: block;
+    border-radius: 3px;
+    font-size: 16px;
+    margin: 25px 0 15px 0;
+}
+
+.centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.button:hover{
+    background: #7fa9ff;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-danger{
+    font-size: 12px;
+}
+
+.btn-danger:hover{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+h3{
+    margin-top: 0px;
+}
+
+.h3-carousel{
+    color: green;
+}
+
+.Absolute-Center{
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.Absolute-Center.is-Responsive{
+    width: 50%; 
+    height: 50%;   
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #f89406;
+}
